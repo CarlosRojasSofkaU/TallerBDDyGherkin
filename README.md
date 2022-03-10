@@ -1,5 +1,5 @@
 # Taller de BDD y con Gherkin
-# Realizado por Carlos Fernando Rojas Cortés
+# Realizado por Carlos Fernando Rojas Cortés y Jhon Sarmiento
 
 En este proyecto se pretende realizar unas caracteristicas para un negocio bancario de cuentas de ahorro, para practicar conocimientos como:
 
